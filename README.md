@@ -16,8 +16,6 @@ Each notebook includes **theory, examples, and practical use cases** to help you
 - Broadcasting
 - Useful functions and methods
 
-📄 [Open NumPy Notebook](./numpy.ipynb)
-
 ---
 
 ## 📌 Upcoming Libraries
