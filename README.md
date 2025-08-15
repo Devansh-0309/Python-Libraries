@@ -36,10 +36,14 @@ You are free to:
 
 See the LICENSE file for full details.
 
+---
+
 📢 About
 
 This repository is maintained by Devansh Maheshwari.
 It is aimed at learners and professionals who want to build a strong foundation in Python’s most widely used libraries.
+
+---
 
 🔗 Connect
 
