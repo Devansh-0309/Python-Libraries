@@ -3,9 +3,19 @@
 This repository contains Jupyter Notebooks covering popular Python libraries for data analysis, data science, and machine learning.
 Each notebook includes theory, examples, and practical use cases to help you master these libraries.
 
----
+📑 Table of Contents
 
-📂 Contents
+NumPy
+
+Pandas
+
+Upcoming Libraries
+
+License
+
+About
+
+Connect
 
 1️⃣ NumPy
 
@@ -41,8 +51,6 @@ Sorting and filtering
 
 Descriptive statistics
 
----
-
 🚀 Upcoming Libraries
 
 Matplotlib
@@ -50,8 +58,6 @@ Matplotlib
 Seaborn
 
 …and more to come!
-
----
 
 📜 License
 
@@ -65,8 +71,6 @@ Download, share, and modify the materials
 See the LICENSE
  file for full details.
 
----
-
 👨‍💻 About
 
 Maintained by Devansh Maheshwari.
@@ -77,3 +81,7 @@ This repository is aimed at learners and professionals who want to build a stron
 LinkedIn
 
 GitHub
+
+👉 This version is minimal, clean, and GitHub-friendly.
+
+Do you want me to also add nested bullets (indented subtopics under NumPy/Pandas), or keep everything flat like it is now?
