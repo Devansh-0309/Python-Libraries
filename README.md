@@ -1,10 +1,13 @@
-Python Libraries
+🐍 Python Libraries
 
 This repository contains Jupyter Notebooks covering popular Python libraries for data analysis, data science, and machine learning.
 Each notebook includes theory, examples, and practical use cases to help you master these libraries.
 
+---
+
 📂 Contents
-1. NumPy
+
+1️⃣ NumPy
 
 Introduction to NumPy
 
@@ -20,7 +23,7 @@ Broadcasting
 
 Useful functions and methods
 
-2. Pandas
+2️⃣ Pandas
 
 Introduction to Pandas
 
@@ -32,19 +35,23 @@ Handling missing values
 
 GroupBy operations
 
-Merging, joining, and concatenation
+Merging, joining & concatenation
 
 Sorting and filtering
 
 Descriptive statistics
 
-📌 Upcoming Libraries
+---
+
+🚀 Upcoming Libraries
 
 Matplotlib
 
 Seaborn
 
-...and more to come!
+…and more to come!
+
+---
 
 📜 License
 
@@ -55,15 +62,18 @@ Use the content for personal or commercial projects
 
 Download, share, and modify the materials
 
-See the LICENSE file for full details.
+See the LICENSE
+ file for full details.
 
-📢 About
+---
 
-This repository is maintained by Devansh Maheshwari.
-It is aimed at learners and professionals who want to build a strong foundation in Python’s most widely used libraries.
+👨‍💻 About
+
+Maintained by Devansh Maheshwari.
+This repository is aimed at learners and professionals who want to build a strong foundation in Python’s most widely used libraries.
 
 🔗 Connect
 
-LinkedIn: linkedin.com/in/devanshmahesh3902
+LinkedIn
 
-GitHub: github.com/Devansh-0309
+GitHub
