@@ -62,7 +62,7 @@ This repository is aimed at learners and professionals who want to build a stron
 
 🔗 Connect
 
-LinkedIn: https://linkedin.com/in/devanshmahesh3902
-GitHub: https://github.com/Devansh-0309
+- LinkedIn: https://linkedin.com/in/devanshmahesh3902
+- GitHub: https://github.com/Devansh-0309
 
 Do you want me to also add nested bullets (indented subtopics under NumPy/Pandas), or keep everything flat like it is now?
